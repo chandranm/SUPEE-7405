@@ -32,7 +32,7 @@ elif [ $naked_version -ge 1800 -a $naked_version -lt 1810 ]; then
 	filename="1.8.0.0"
 elif [ $naked_version -ge 1810 -a $naked_version -lt 1901 ]; then
 	filename="1.8.1.0"
-elif [ $naked_version -ge 1900 -a $naked_version -lt 1911 ]; then
+elif [ $naked_version -ge 1900 -a $naked_version -lt 1901 ]; then
 	filename="1.9.0.1"
 elif [ $naked_version -ge 1910 -a $naked_version -lt 1920 ]; then
 	filename="1.9.1.1"
